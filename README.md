@@ -15,13 +15,16 @@
 
 **💬 Ask Me About:**  
 - *Full-Stack Development*
+- *Frontend Developing*
+- *Backend Developing*
 - *Microcontroller Programming (8051, Arduino, C)*
-- *SAP Projects*
 - *Object-Oriented Programming*
+- *Data Structures*
+- *Design Patterns*
+- *SAP Projects*
 
 **🎉 Fun Fact:**  
 *I hold two Bachelor's degrees: one in Electronic & Communication Engineering and another in Information Technology. In my spare time, I enjoy exploring new technologies and working on innovative projects.*
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nelush-gayashan-29389b13a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10507147) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NGFXavier) 
