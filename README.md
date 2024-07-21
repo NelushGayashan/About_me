@@ -1,7 +1,26 @@
-# About_me
+# Nelush Gayashan Fernando
 
 # 💫 About Me:
-👨‍💻 Currently Working On:<br>I'm currently working on various full-stack development projects, focusing on enhancing my skills in JavaScript, Java, PHP, Python, SAP ABAP, MERN stack, and MEAN stack.<br><br>🤝 Looking to Collaborate On:<br>I'm interested in collaborating on projects involving embedded systems, microcontrollers (specifically using the 8051 microcontroller), Arduino projects with an OOP approach, Spring Boot, and .NET. I'm also open to working on SAP projects and full-stack development projects that utilize my diverse skill set.<br><br>👨‍🏫 Looking to Help With:<br>I'd love to assist with any questions or projects related to JavaScript, Java, PHP, Python, C, C++, C#, SAP ABAP, and various frameworks and libraries. If you need help with organizing your code in an OOP manner or working on microcontroller projects, feel free to reach out.<br><br>📚 Currently Learning:<br>I'm currently diving deeper into VHDL development using Visual Studio Code (VSCode) and refining my skills in microcontroller programming, specifically with the 8051.<br><br>💬 Ask Me About:<br><br>- Full-Stack Development<br>- Micro controller Programming (8051, Arduino, C)<br>- SAP Projects<br>- Object-Oriented Programming<br><br>🎉 Fun Fact:<br>I hold two Bachelor's degrees: one in Electronic & Communication Engineering and another in Information Technology. In my spare time, I enjoy exploring new technologies and working on innovative projects.
+👨‍💻 **Currently Working On:**  
+I'm currently working on various full-stack development projects, focusing on enhancing my skills in JavaScript, Java, PHP, Python, SAP ABAP, MERN stack, and MEAN stack.
+
+🤝 **Looking to Collaborate On:**  
+I'm interested in collaborating on projects involving embedded systems, microcontrollers (specifically using the 8051 microcontroller), Arduino projects with an OOP approach, Spring Boot, and .NET. I'm also open to working on SAP projects and full-stack development projects that utilize my diverse skill set.
+
+👨‍🏫 **Looking to Help With:**  
+I'd love to assist with any questions or projects related to JavaScript, Java, PHP, Python, C, C++, C#, SAP ABAP, and various frameworks and libraries. If you need help with organizing your code in an OOP manner or working on microcontroller projects, feel free to reach out.
+
+📚 **Currently Learning:**  
+I'm currently learning SAP technologies, SAP ABAP, machine learning, data science, and AI with Python frameworks and libraries. I'm currently diving deeper into VHDL and FPGA development using ActiveHDL and refining my skills in microcontroller programming. I am also doing embedded electronics programming.
+
+💬 **Ask Me About:**  
+- Full-Stack Development
+- Microcontroller Programming (8051, Arduino, C)
+- SAP Projects
+- Object-Oriented Programming
+
+🎉 **Fun Fact:**  
+I hold two Bachelor's degrees: one in Electronic & Communication Engineering and another in Information Technology. In my spare time, I enjoy exploring new technologies and working on innovative projects.
 
 
 ## 🌐 Socials:
